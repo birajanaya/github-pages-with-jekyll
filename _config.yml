@@ -1,6 +1,7 @@
--------------
+---
 title: "My First Blog"
 date: 2019-12-03
+---
 author: Biraja Prasad Nayak
 email: birajanaya@gmail.com
 description: > Hi All This my new blog.
@@ -9,4 +10,3 @@ twitter_username: N/A
 github_username:  birajanaya@gmail.com
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
--------------
