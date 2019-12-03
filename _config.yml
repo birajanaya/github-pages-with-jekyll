@@ -1,9 +1,9 @@
 ---
-title: "My awsome blog"
+title: "My First Blog"
 date: 2019-12-03
 ---
 author: Biraja Prasad Nayak
-email: birajanaya@gmaul.com
+email: birajanaya@gmail.com
 description: > Hi All This my new blog.
 
 # social links
@@ -13,3 +13,4 @@ github_username:  birajanaya@gmail.com
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+-------------
